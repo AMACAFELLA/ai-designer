@@ -1,0 +1,8 @@
+opencv-python
+numpyPillow
+python-dotenv
+langchain
+langchain-google-genai
+deepgram-sdk
+pyaudio
+google-generativeai
